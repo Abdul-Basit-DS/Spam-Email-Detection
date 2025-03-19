@@ -38,3 +38,19 @@ This is a **Spam Detection System** built using **Machine Learning and Flask**. 
 ```bash
 git clone https://github.com/your-username/spam-detection-flask.git
 cd spam-detection-flask
+
+## 2️⃣ Create a Virtual Environment
+
+python -m venv venv
+source venv/bin/activate  # On macOS/Linux
+venv\Scripts\activate     # On Windows
+
+## 3️⃣ Install Dependencies
+pip install -r requirements.txt
+
+## 4️⃣ Run the Flask App
+python app.py
+
+## 5️⃣ Open in Browser
+Go to http://127.0.0.1:5000/ in your browser to use the Spam Detector.
+
