@@ -27,5 +27,14 @@ This is a **Spam Detection System** built using **Machine Learning and Flask**. 
 ---
 
 ## 📂 Project Structure
-Spam Detection Project │── static/ # Static files (CSS, JS, images) │── templates/ # HTML templates │ ├── index.html # Web UI for spam detection │── spam_model.pkl # Trained Machine Learning model │── vectorizer.pkl # TF-IDF vectorizer │── app.py # Flask backend │── README.md # Project Documentation │── requirements.txt # Python dependencies
 
+
+
+---
+
+## 🔥 How to Run the Project Locally
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/spam-detection-flask.git
+cd spam-detection-flask
